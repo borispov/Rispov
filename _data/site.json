@@ -1,0 +1,31 @@
+{
+  "title": "Rispov",
+  "description": "Thinking Confronted - This is where I log my personal stands & opinions on a variety of specific subjects.",
+  "url": "https://www.rispov.com",
+  "navigation": [
+    {
+      "text": "Home",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about"
+    },
+    {
+      "text": "Subscribe",
+      "url": "/feed.xml"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "author_name": "Boris Povolotsky",
+  "author_image": "/images/avatar.jpg",
+  "author_location": "Israel",
+  "author_bio": "I'm Boris Povolotsky, a Social Worker and a hobbyist Programmer. I write mostly about psychology, mental health and all things related. I'm fascinated by tech, but rarely write about.",
+  "author_url": "https://www.rispov.com",
+  "twitter_username": "borispov_",
+  "github_username": "borispov",
+  "linkedin_username": "borispovolotsky"
+}

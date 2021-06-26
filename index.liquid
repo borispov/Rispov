@@ -1,0 +1,38 @@
+---
+layout: page
+title: Thinking Confronted
+---
+
+{% assign posts = collections.posts | reverse %}
+
+<!-- <h1>Rispov. Where Thinking Is Confronted</h1> -->
+
+<main class="md:w-4/5 w-full flex flex-col items-center">
+  {% for post in posts limit:10 %}
+  <article class="mb-12 w-full shadow-sm p-6 rounded">
+      <div class="flex flex-wrap justify-between items-center">
+      <h1 class="text-2xl font-serif text-gray-800 leading-relaxed mb-1">
+        <a href="{{ post.url }}">
+          {{ post.data.title }}
+        </a>
+      </h1>
+      <i class="font-light text-sm text-red-800 tracking-wide">
+        '{{ post.date | date: "%B %d, %y" }}
+      </i>
+      </div>
+
+    <a href="{{ post.url }}">
+      <img class="mb-2 h-auto" src="{{ post.data.image }}" alt="" />
+    </a>
+
+    <p class="leading-snug mb-2">
+      {{ post.templateContent | excerpt }}
+    </p>
+    <div class="flex flex-wrap justify-between items-center border-t-2 border-red-700">
+        <a class="text-red-800 font-bold font-serif" href="{{post.url}}">
+            Continue Reading ⤏ <span class="text-sm pl-4 font-sans font-light italic text-gray-400"> 🕒 {{ post.templateContent | timeToRead }} read</span>
+        </a>
+    </div>
+  </article>
+  {% endfor %}
+</main>

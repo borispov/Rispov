@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@300;400&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet"> <link rel="stylesheet" href="/style.css">
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+  </head>
+<body>
+
+  {% include nav %}
+
+    <main class="max-w-5xl py-0 px-2 my-0 mx-auto">
+        {{ content }}
+    </main>
+
+    <footer>
+        <!-- TODO:
+             Add A Footer Include Here -->
+    </footer>
+
+    <!-- Current page: {{ page.url }} -->
+  </body>
+</html>

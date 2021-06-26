@@ -1,0 +1,46 @@
+{
+  "name": "rispov",
+  "version": "1.0.0",
+  "description": "Where Thinking Is Confronted - A cosmos of my thoughts",
+  "main": ".eleventy.js",
+  "scripts": {
+    "clean": "rm -rf ./tmp/style.css",
+    "tailwind:process": "npx postcss style.css -o _tmp/style.css -w",
+    "build": "ELEVENTY_PRODUCTION=true npx eleventy & NODE_ENV=production postcss style.css -o _site/style.css",
+    "dev": "npx eleventy --serve",
+    "start": "concurrently \"npm run tailwind:process\" \"npm run dev\"",
+    "start2": "npx eleventy --serve & npx postcss style.css -o _tmp/style.css -w",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rispov/Rispov"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Boris Povolotsky",
+    "email": "boristofu@gmail.com",
+    "url": "https://www.rispov.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rispov/rispov/issues"
+  },
+  "homepage": "https://github.com/rispov/rispov",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "concurrently": "^6.2.0",
+    "cssnano": "^5.0.6",
+    "eleventy-plugin-lazyimages": "^2.1.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-anchor": "^8.0.3",
+    "markdown-it-link-attributes": "^3.0.0",
+    "postcss-cli": "^8.3.1",
+    "postcss-nesting": "^8.0.1",
+    "tailwindcss": "^2.0.4"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "dotenv": "^10.0.0"
+  }
+}

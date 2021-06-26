@@ -1,0 +1,41 @@
+{
+  "name": "Rispov Blog",
+  "version": "1.0.0",
+  "description": "Where Thinking Is Confronted - A cosmos of my thoughts",
+  "scripts": {
+    "build": "ELEVENTY_PRODUCTION=true npx eleventy",
+    "start": "npx eleventy --serve & postcss styles/tailwind.css --o _tmp/style.css --watch",
+    "watch": "npx eleventy --watch",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rispov/Rispov"
+  },
+  "author": {
+    "name": "Boris Povolotsky",
+    "email": "boristofu@gmail.com",
+    "url": "https://www.rispov.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rispov/rispov/issues"
+  },
+  "homepage": "https://github.com/rispov/rispov",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^10.2.6",
+    "luxon": "^1.25.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-anchor": "^5.3.0",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.4"
+  },
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "clean-css": "^4.2.1",
+    "html-minifier": "^4.0.0",
+    "uglify-es": "^3.3.9"
+  }
+}
