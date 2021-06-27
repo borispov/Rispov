@@ -38,7 +38,6 @@
             <p class="pb-2">Join my fresh, new and hot running newsletter. Be first to get a message when a post is up and share your thoughts, invite friend 
             </p>
             <input type="email" value="" name="EMAIL" class="border-b-2 border-gray-200 focus:border-gray-900 focus:border-2" id="mce-EMAIL" placeholder="Email ..." required>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
               <input type="text" name="b_13365608ae5ea50c791198458_4df021b8f7" tabindex="-1" value="">
             </div>
@@ -51,5 +50,65 @@
       <!--End mc_embed_signup-->
     </section>
 
+    <section class="w-full bg-white shadow flex flex-col my-4">
+      <div id="app">
+        <label class="text-xl font-semibold pb-5">Newsletter</label>
+        <p class="pb-2">Join my fresh, new and hot running newsletter. Be first to get a message when a post is up and share your thoughts, invite friend
+        <input v-model="email" type="email" class="border-b-2 border-gray-200 focus:border-gray-900 focus:border-2" placeholder="Email ..." required>
+        <button
+            @click="doSubscribe"
+            :disabled="working"
+            class="w-full bg-red-800 text-white font-bold text-sm uppercase rounded hover:bg-blue-700 flex items-center justify-center px-2 py-3 mt-4"
+        >Subscribe</button>
+        <p style="font-weight: bold">
+        {% raw %}
+        {{ status }}
+        {% endraw %}
+        </p>
+      </div>
+    </section>
 
 </aside>
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+const SUBSCRIBE_API = '/.netlify/functions/newsletter?email=';
+
+const app = new Vue({
+  el:'#app',
+  data: {
+    email:'',
+      working:false,
+    status:''
+  },
+  methods: {
+    async doSubscribe() {
+      if(this.email === '') return;
+      this.working = true;
+      console.log('do add for'+this.email);
+      this.status = 'Attemping to subscribe you...';
+
+      fetch(SUBSCRIBE_API + this.email)
+      .then(res => {
+        return res.json()
+      })
+      .then(res => {
+        console.log('status',res.status);
+        if(res.status === 'subscribed') {
+          this.status = 'You have been subscribed!';
+        } else if(res.status === 400) {
+          this.status = `There was an error: ${res.detail}`;
+        }
+        this.working = false;
+      })
+      .catch(e => {
+        console.log('error result: ', e);
+      });
+    }
+  }
+})
+</script>
