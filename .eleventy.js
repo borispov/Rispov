@@ -29,14 +29,6 @@ module.exports = function(eleventyConfig) {
         target: '_blank',
         rel: 'noreferrer'
       }
-  }).use(markdownItAnchor, {
-      permalink: true,
-      permalinkClass: 'direct-link text-red-400 dark:text-red-600',
-      permalinkSymbol: '>>',
-      permalinkAttrs: (slug, state) => ({
-        'aria-label': `permalink to ${slug}`,
-        title: 'Anchor link for easy sharing.'
-      })
   });
   eleventyConfig.setLibrary("md", markdownLib);
 

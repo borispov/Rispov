@@ -2,7 +2,7 @@
 layout: post
 title: "Effortless Effort"
 date: "2021-06-29"
-image: images/letting-go.jpeg
+image: images/letting-go.jpg
 categories: 
 tags: 
   - "psychology"
@@ -31,7 +31,7 @@ provide a space for expansion and growth for the mentor. Often, we touch on abst
 aren't directly related to any specific client and eventually draw relevant
 connections. Such practice encourages broader level of thinking and abstractions
 which allow for better understanding of clients, and people, in general.
-Understanding other's point of view without identifying is the core of [Empathy](/_posts/2021/06/empathy.md).
+Understanding other's point of view without identifying is the core of Empathy.
 
 ## First Case
 Mr. Kapach is an excellent young mentor who works with Dennis(33) for 1.5 years
@@ -102,3 +102,6 @@ manifests itself before your eyes, should you care enough to notice.
 This is not about submitting to the whimsic nature of the other. Don't *join*
 them. Stop trying to beat them. Then, they are most likely to stop fighting
 back and join you.
+
+
+*Image From (unsplash)[https://unsplash.com] by: Brett Jordan*
