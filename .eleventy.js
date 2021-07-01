@@ -32,7 +32,7 @@ module.exports = function(eleventyConfig) {
   }).use(markdownItAnchor, {
       permalink: true,
       permalinkClass: 'direct-link text-red-400 dark:text-red-600',
-      permalinkSymbol: '#',
+      permalinkSymbol: '>>',
       permalinkAttrs: (slug, state) => ({
         'aria-label': `permalink to ${slug}`,
         title: 'Anchor link for easy sharing.'

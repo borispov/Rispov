@@ -12,10 +12,6 @@
       "url": "/about"
     },
     {
-      "text": "Subscribe",
-      "url": "/feed.xml"
-    },
-    {
       "text": "Contact",
       "url": "/contact"
     }
@@ -27,5 +23,6 @@
   "author_url": "https://www.rispov.com",
   "twitter_username": "borispov_",
   "github_username": "borispov",
-  "linkedin_username": "borispovolotsky"
+  "linkedin_username": "borispovolotsky",
+  "contact_description": ""
 }

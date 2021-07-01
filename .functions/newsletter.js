@@ -5,6 +5,7 @@ const listId = '4df021b8f7';
 const apiRoot = `https://us1.api.mailchimp.com/3.0/lists/${listId}/members/`;
 
 const handler = async (event) => {
+    console.log("Hello From Serverless Functions.")
 	try {
 
 		const email = event.queryStringParameters.email;
@@ -30,7 +31,7 @@ const handler = async (event) => {
 					}
 				},
 				auth: {
-					'username': 'anythingreally',
+					'username': 'rispov',
 					'password': process.env.MC_API
 				}
 			}).then(res => {
