@@ -2,8 +2,10 @@
 layout: post
 title: "Elitism In Psychology"
 date: "2021-01-09"
+draft: true
 categories: 
   - "worldview"
+  - "psychology"
 tags: 
   - "academia"
   - "elitism"
@@ -11,7 +13,7 @@ tags:
   - "psychology"
 ---
 
-In my mind elitism is associated with two things: Chess and French. Though I haven't conducted any thorough research beyond rumors and personal experience, visiting France with my wife validated what we had heard. We met some friendly young men and women who'd rather sacrifice a potentially interesting conversation with a stranger tourist all to preserve French. Besides a few such occurrences, there are many misconceptions based upon a misunderstanding of the local culture, tradition, manners, etc.
+I associate elitisim with mainly two things: Chess & French. Though I haven't conducted any thorough research beyond rumors and personal experience, visiting France with my wife validated what we had heard. We met some friendly young men and women who'd rather sacrifice a potentially interesting conversation with a stranger tourist all to preserve French. Besides a few such occurrences, there are many misconceptions based upon a misunderstanding of the local culture, tradition, manners, etc.
 
 Chess is a novelty in my life. My uncle introduced me to the game when I was 6 years old. He was the only one in the family who was interested in Chess, and I was the only one interested in learning. Truth is, I haven't met anyone even remotely interested in Chess for most of my life. Since the beginning of covid, I started playing and studying chess again. Searching for a partner to learn and train with, I stumbled upon various reasons and excuses people don't/won't play chess. A common assumption was that chess requires a (smart) kind of thinking which, of course, they don't have. Basically, a notion that chess is for brilliant minds.
 
