@@ -1,5 +1,6 @@
 ---
 layout: post
+draft: true
 title: "Just Learning Something Is Not Enough"
 date: "2020-11-27"
 categories: 
