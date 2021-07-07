@@ -2,12 +2,26 @@
 layout: post
 title: "Four Steps To Break A Habit"
 date: "2020-11-07"
+image: images/break-a-habit.jpeg
 categories: 
-  - "worldview"
+  - "change"
+  - "psychology"
+  - "shorts"
+tags:
+  - "habits"
+  - "transformation"
+  - "awareness"
+  - "rational"
 ---
 
-In order to break any habit, one has to become aware of the habit itself. The second step is to identify the underlying _need_ behind the habit. The third step is to measure the efficiency of the behavior in resolving the need. Often, you'll find out the need isn't relevant anymore. The final step is to find an alternative that is better and more efficient at resolving that need.
+To break a habit, first, one has to become conscious of it. 
+Then, one must identify the underlying _need_ the habit supposedly satisfies. 
+The third step is to reevaluate the efficiency of the behavior in resolving the need. 
+The final step is to find an alternative that is better and more efficient at resolving that need.
 
-If you start exercising a new behavior that is also useful for you, it'll be much easier to let go of unnecessary and useless patterns that either merely waste your energy or even harm you directly or indirectly.
+If the need is no longer relevant and the habit is still active, the mere awareness will cause the behavior to cease. Otherwise, there's probably something else you're missing that is fueling the life of the behavior. In which case you must dig deeper.
 
-Remember, awareness is a great utility. It's a weapon, a sharp weapon.
+When you replace old inefficient habits with new healthy ones, the old ones naturally disappear.
+
+As always, awareness is of great utility. 
+It's a weapon, a sharp weapon.
