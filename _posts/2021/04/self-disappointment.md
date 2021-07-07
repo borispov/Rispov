@@ -2,7 +2,7 @@
 layout: post
 title: "Self Disappointment Is A Signal"
 date: "2021-04-26"
-image: images/self-disappointment.jpeg
+image: images/self-disappointment.jpg
 categories: 
   - "worldview"
   - "shorts"
