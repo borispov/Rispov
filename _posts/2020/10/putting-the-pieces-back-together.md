@@ -6,7 +6,7 @@ date: "2020-10-14"
 categories: 
   - "worldview"
   - "shorts"
-  - "mental health
+  - "mental health"
 tags:
   - "introspection"
   - "perspective"
