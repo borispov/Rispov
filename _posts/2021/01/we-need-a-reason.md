@@ -4,7 +4,6 @@ title: "We Need A Reason"
 image: images/a-reason.jpg
 date: "2021-01-05"
 categories: 
-  - "life"
   - "worldview"
   - "shorts"
 tags: 

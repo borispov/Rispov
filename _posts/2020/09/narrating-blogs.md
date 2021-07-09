@@ -1,5 +1,6 @@
 ---
 layout: post
+draft: true
 title: "Narrating Blogs"
 date: "2020-09-14"
 categories: 

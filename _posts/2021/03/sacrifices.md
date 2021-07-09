@@ -8,6 +8,7 @@ categories:
   - "shorts"
   - "worldview"
   - "writing"
+  - "change"
 tags: 
   - "book"
   - "change"

@@ -14,6 +14,7 @@ tags:
   - "rational"
 ---
 
+## Awareness To Break A Habit
 To break a habit, first, one has to become conscious of it. 
 Then, one must identify the underlying _need_ the habit supposedly satisfies. 
 The third step is to reevaluate the efficiency of the behavior in resolving the need. 

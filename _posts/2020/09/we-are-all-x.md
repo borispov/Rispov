@@ -6,9 +6,9 @@ categories:
   - "worldview"
 ---
 
-People are capable of all sorts of good and evil. The best of men take decisions with terrible consequences every day. Atrocities demonstrated in the 20th century served as evidence of the dark side of human nature. Regular and intelligent men and women were Nazis, many were prison guards in the Gulag camps. Those humans were not exceptions, they were mothers, fathers, children, students, neighbors, caretakers, they were you and me.
+People are capable of all sorts of good and evil. The best of men make decisions with terrible consequences every day. Atrocities demonstrated in the 20th century served as evidence of the dark side of human nature. Regular and intelligent men and women were Nazis, many were prison guards in the Gulag camps. Those humans were not exceptions, they were mothers, fathers, children, students, neighbors, caretakers, they were you and me.
 
-Any deviation from the norm is destined for judgment regardless of being right and wrong. The reason for that, partially, is that the unacceptable behavior resonates with you. Otherwise, you wouldn't care enough to engage in judging in the first place.
+Any deviation from the norm is destined for judgment regardless of being right and wrong. The reason for that, partially, is that the unacceptable behavior resonates with you. Otherwise, you wouldn't care enough to judge it in the first place.
 
 Joker the movie (2020) portrays that brilliantly. I've heard numerous opinions from bashing the movie for its violence to justifying Arthur's evil crimes. Not a single person described the movie as "boring". Good movies trigger intrapersonal dialogues and stories within us. Perhaps, if you're repulsive of Arthur's behavior to the extent of reacting aggressively when discussing it, you're unconsciously repulsive of your own aggression. In which case the judgment is actually targeted inwards.
 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Middle Ground"
+image: images/middle-ground.jpg
 date: "2020-11-06"
 categories: 
   - "worldview"
+  - "personal"
+tags:
+  - "story"
+  - "confrontation"
 ---
 
 Practicing counterintuitive behavior pushes us out of our comfort zone and often brings unpleasant feelings, especially when we face the unknown.

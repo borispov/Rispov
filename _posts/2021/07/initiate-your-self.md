@@ -7,6 +7,7 @@ categories:
   - "spiritual"
   - "psychology"
   - "shorts" 
+  - "change"
 tags: 
   - "motivation"
   - "inspiration"

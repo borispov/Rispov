@@ -6,6 +6,7 @@ image: images/self-disappointment.jpg
 categories: 
   - "worldview"
   - "shorts"
+  - "change"
 tags:
   - "tips"
   - "reflection"

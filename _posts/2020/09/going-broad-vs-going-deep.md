@@ -1,5 +1,6 @@
 ---
 layout: post
+draft: true
 title: "Going Broad Vs Going Deep"
 date: "2020-09-22"
 categories: 

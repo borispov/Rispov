@@ -4,6 +4,9 @@ title: "Effortless Effort"
 date: "2021-06-29"
 image: images/letting-go.jpg
 categories: 
+  - "worldview"
+  - "change"
+  - "spiritual"
 tags: 
   - "psychology"
   - "philosophy"

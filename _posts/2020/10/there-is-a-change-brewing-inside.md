@@ -1,5 +1,6 @@
 ---
 layout: post
+draft: true
 title: "There is a change brewing inside"
 date: "2020-10-26"
 categories: 

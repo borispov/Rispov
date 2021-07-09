@@ -2,9 +2,11 @@
 layout: post
 title: "Potential And Responsibility"
 date: "2020-09-11"
+image: images/vastness.jpg
 categories: 
   - "life"
   - "worldview"
+  - "shorts"
 tag: 
   - "development"
   - "positive-psychology"
@@ -12,8 +14,19 @@ tag:
   - "responsibility"
 ---
 
-Questioning whether you're really valuable or effortlessly replaceable even by the next average, is actually quite common. Perhaps, also somewhat associated with the Imposter Syndrome. The notion that one's knowledge, experience, and skills are merely average, or worse, worthless, is brutally dangerous. Compulsive self-doubt is counter-productive and doesn't add any value, on the contrary, it undermines and potential one might have. Beating yourself up for not meeting your standards can be harsh, devastating, and also irresponsible. Self-criticism is good, but not if it renders you paralyzed, it's no good.
+> We are born with raw potential. Our job is to let it flourish.
+<br />
 
-I believe everyone is inherently valuable, or rather potentially valuable to be precise. A notion that is a relief and a burden both at the same time, it's very perspective dependant. As much as one holds the potential for good, one carries the responsibility to actualize it over his lifespan. While responsibility helps set things in order, it may become a burden. Responsibility should be taken by choice whenever possible, though, respective to the ability one has to successfully withstand its demands. Nobody can bring any value and kindness to society without deliberately taking part of a burden upon himself and make good use of it.
+## Self-Criticism
+Questioning one's own value and contemplating whether you're easily replaceable, is common enough to receive a dedicated name: Imposter Syndrome. While common, it can disrupt one's career and relationships. A healthy portion of self-criticism and self-monitoring can be of immense value, it's when it's overly-exercised that it becomes a problem. 
 
-We are born with raw potential. Unrealized, this potential is destined to rot. Brilliant inventions that serve the wrong people at the wrong time, render themselves useless.
+Self-criticism is good, but not if it renders you paralyzed, it's no good. Compulsive self-doubt is counter-productive and undermines the journey of realizing one's potential. Beating yourself up for not meeting your standards can be harsh, devastating, and also irresponsible.
+
+## Potential
+I believe that everyone is inherently valuable, or rather potentially valuable to be precise. A notion that is a relief and a burden both at the same time, perspective dependant. The potential we receive as birthright comes with a lifelong responsibility to realize this potential over our lifespan. This is perhaps also the cause of our brutal self-judgement, we carry an inner force that endlessly pushes us further than what we are. It's most effective when responsibility is taken consciously, with consideration of context, time, and one's ability to withstand the demands associated with certain responsibilities. It takes conscious involvement and engagement in order to bring genuine value to one's life and everything that surrounds one's life (family, community, society). 
+<br />
+
+Take a piece of burden upon yourself and making flowers out if it.
+<br />
+<br />
+Image by Carl Heyerdahl, from [unsplash](https://unsplash.com/photos/i-6-vi1hFz8)

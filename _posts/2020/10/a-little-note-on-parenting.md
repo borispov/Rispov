@@ -1,5 +1,6 @@
 ---
 layout: post
+draft: true
 title: "A little note on parenting"
 date: "2020-10-21"
 categories: 

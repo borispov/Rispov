@@ -4,7 +4,7 @@ title: "Change: Willingness To Let Go"
 date: "2021-03-05"
 image: images/change-willingness-to-let-go.jpeg
 categories: 
-  - "life"
+  - "change"
 tags: 
   - "change"
   - "motivation"

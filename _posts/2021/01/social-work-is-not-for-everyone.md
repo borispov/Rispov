@@ -1,13 +1,18 @@
 ---
 layout: post
+draft: true
 title: "Social Work Is Not For Everyone"
 date: "2021-01-04"
 categories: 
   - "worldview"
+  - "social work"
+  - "rant"
+  - "personal"
 tags: 
   - "bad-practices"
   - "ethics"
   - "social-work"
+  - "social work"
 ---
 
 Social work is a profession many young people choose to pursue. Unfortunately, partially for wrong reasons. I believe an introspection is required before you go about any commitment that lasts 3+ years. I encourage an examination process of expectations and inner motivations in becoming a social worker or a _helper_ in general.
@@ -19,7 +24,7 @@ More often than not, you don't get that in social work. The overhead with paper 
 
 Trying to solve one's own traumas is another motivation, however, a rather unconscious one. It takes courage and self awareness understand such thing. Furthermore, there are probably many other potential solutions other than dedicating a significant part of your lifetime to something that has many implications which you may not be ok with. Salary is one of them, depending on where you're located, though.
 
-So why Social Work?
+## So, Why Social Work?
 
 I wasn't as clear as I could have been when I started. I was a bit naive, too. I learned that Social Work is an entirely different world and couldn't be more further from what I had initially imagined.
 
