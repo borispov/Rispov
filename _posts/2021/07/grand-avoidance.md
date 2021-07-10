@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grand Avoidance"
-date: "2021-07-11"
+date: "2021-07-10"
 image: images/grand-avoidance.jpg
 categories: 
   - "worldview"
