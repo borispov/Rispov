@@ -27,13 +27,13 @@ On this particular Sunday, I "stumbled" upon a TED talk by [Cynthia Thurlow](htt
 
 ## Take initiative
 
-We often feel stuck when the energies we *waste* don't bring sensible results. While it's not entirely untrue, this is somewhat inaccurate. Think about significant endeavors and accomplishes you're proud of, how were they born? direct or indirect experiences, thoughts, ideas. What this means is that some of your biggest accomplishments have also started with some back and forth and perhaps even [ambivalence](https://rispov.com/_posts/2021/05/ambivalence/)
+We often feel stuck when the energies we *waste* don't bring sensible results. While it's not entirely untrue, this is somewhat inaccurate. Think about significant endeavors and accomplishes you're proud of, how were they born? direct or indirect experiences, thoughts, ideas. What this means is that some of your biggest accomplishments have also started with some back and forth and perhaps even ambivalence.
 
-Some changes require more time than other changes to prepare a platform for a change to occur. It takes a whole year of physiological development before a baby can walk. For example, it must develop proper muscle strength and a sensory system as well as motors skills and more. The first initiative is to set yourself on a proper course of development and don't underestimate the significance of the [contemplation](fuck) phase.
+Some changes require more time than other changes to prepare a platform for a change to occur. It takes a whole year of physiological development before a baby can walk. For example, it must develop proper muscle strength and a sensory system as well as motors skills and more. The first initiative is to set yourself on a proper course of development and don't underestimate the significance of the [contemplation](https://rispov.com/_posts/2021/03/stages-of-change) phase.
 
 ## Wisdom
 
-Engage consciously with the change you seek. Occupying yourself with a certain subject of interest means you're investing energies into it and orienting yourself in a certain way, isn't that *something*? It is, because that way you're more inclined to invest into that further. Playing with it consciously means embracing an attitude of willingness to bear and adjust to all kinds of [consequences](https://www.rispov.com/_posts/2021/03/sacrifices.md) that will emerge along your process, which takes great responsibiity to do so consciously. 
+Engage consciously with the change you seek. Occupying yourself with a certain subject of interest means you're investing energies into it and orienting yourself in a certain way, isn't that *something*? It is, because that way you're more inclined to invest into that further. Playing with it consciously means embracing an attitude of willingness to bear and adjust to all kinds of [consequences](https://www.rispov.com/_posts/2021/03/sacrifices) that will emerge along your process, which takes great responsibiity to do so consciously. 
 
 ### Remember
 

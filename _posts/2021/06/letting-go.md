@@ -20,9 +20,7 @@ A phrase voiced so frequently, yet carries all kinds of subjective meanings and 
 
 I'd like to offer a perspective for letting go as an attempt to step back from
 your expectations to allow a process which you aren't prepared for, a process
-that might yield unknown and unexpec
-
-ted results.
+that might yield unknown and unexpected results.
 
 I'll present two examples taken from my daily work as a Mental Health
 Services coordinator. First, I'll briefly describe the supervision part of my
@@ -36,7 +34,7 @@ connections. Such practice encourages broader level of thinking and abstractions
 which allow for better understanding of clients, and people, in general.
 Understanding other's point of view without identifying is the core of Empathy.
 
-# First Case
+## First Case
 Mr. Kapach is an excellent young mentor who works with Dennis(33) for 1.5 years
 already. The two have built a professeional and meaningful relationship that
 aids Dennis in his rehabilitative program. Dennis copes with OCD and Asperger's
@@ -82,7 +80,7 @@ quickly stopped her rant and shifted to speak about the wonderful parts of her
 journey with Anna and in general. Anna had no insight as to what
 might have contributed to Orna's sudden change of state.
 
-# Interpretation. Kind of.
+## Interpretation. Kind of.
 While we can draw all kinds of interpretations from each case, instead, I'd like to
 address a common point from both cases. They both had invested significant
 amounts of effort to reach a goal that was--supposedly--mutually agreed upon. Only to
@@ -107,4 +105,4 @@ them. Stop trying to beat them. Then, they are most likely to stop fighting
 back and join you.
 
 
-*Image From (unsplash)[https://unsplash.com] by: Brett Jordan*
+*Image From [unsplash](https://unsplash.com) by: Brett Jordan*
