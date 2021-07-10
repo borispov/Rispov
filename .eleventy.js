@@ -85,7 +85,7 @@ module.exports = function(eleventyConfig) {
 
 
     return process.env.NODE_ENV === 'production'
-      ? newPosts.filter(publishedPostsb)
+      ? newPosts.filter(publishedPosts)
       : newPosts
   })
 
