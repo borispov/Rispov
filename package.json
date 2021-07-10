@@ -8,7 +8,7 @@
     "tailwind:process": "npx postcss style.css -o _tmp/style.css -w",
     "build": "ELEVENTY_PRODUCTION=true npx eleventy & NODE_ENV=production postcss style.css -o _site/style.css",
     "dev": "npx eleventy --serve",
-    "start": "concurrently \"npm run tailwind:process\" \"npm run dev\"",
+    "start": "NODE_ENV=development concurrently \"npm run tailwind:process\" \"npm run dev\"",
     "start2": "npx eleventy --serve & npx postcss style.css -o _tmp/style.css -w",
     "debug": "DEBUG=* npx eleventy"
   },

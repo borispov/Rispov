@@ -12,22 +12,30 @@ tags:
   - "abstraction"
 ---
 
-Procrastination is quite a topic today.
+Procrastination.
 
-Everybody has a reason & a cause for procrastinatio:
+Let's see what hasn't been said on that subject
+
+Everybody has a reason and a cause for procrastination.
 Fear, anxiety, perfectionism, stress, depression, social media, fear of failure, lack of motivation, etc. 
-We even have talks that draw benefits of being a procrastinator.
+Heck. We even have talks that draw benefits of being a procrastinator.
 
-## Danger
-What I'd like to address is the danger of unconsciously nurturing avoidant patterns of behavior. That may happen as a result of procrastination, however, I don't like use the word procrastination professionally. That's probably because I chronic procrastinator, but really, is because the term doesn't mean a whole lot by itself, it require context. As stated, there are varying underlying causes.
+## Procrastination Is Not A Cause
+What I'd like to address is the danger of unconsciously nurturing avoidant patterns of behavior. That may happen as a result of procrastination. Rather than being a problem all by itself, procrastination is better understood as a consequence. The implicit meaning of this is there are underlying causes for procrastination that have to be dealt with. What has to be deal with first is inconclusive and depends on the paradigm lens you're wearing.
 
-Most dangerous causes are fear and anxiety. Fairly simple and logical. However, when anxiety takes over, it's everything but logical. It causes your mind to make ridiculous assumptions based on survival instincs and form generalizations to protect you from everything that might hurt you. For example, if you're afraid of a bear, you learn to be afraif of large furry creatures that aren't bears, too.
+Anxiey is a major cause of procrastination. Anxiety disrupts our thinking process and interferes with our decision-making, since most of the focus is turned towards survival and safety. The delayance of tasks may be an attempt to avoid facing certain triggers that represent discomfort and unpleasantness. The source of discomfort and unpleasantness may differ for each person. Some people experience great stress if they believe they're incompetent to perform a certain task, and thus, avoiding facing their perceived incompetence and the possibility of failure. Now we can understand the motivation behind avoidant behaviors, we relieve ourselves from facing stressful stimuli.
 
-The thing is, if you experience unpleasant occurances, you might be naturally tempted to avoid the reoccurence of such events. Thing is, your mind works an extra mile as you begin to avoid things directly related to the occurence. Your mind is so sophisticated that gradually it begins signal you to avoid things that are indirectly related. You can see examples of this in teenagers that isolate themselves, gradually, but consistently.
+Another cause of avoidance is lack of motivation and low anticipated value. If you don't find much value in accomplishing a certain task, then you'd be less inclined to do so. Perhaps, the more impulsive you are, the more you'll tend towards delaying tasks with long-term benefits in favor of short-term gratifications. We could also link lack of motivation to depression and elaborate on that, but that's a different subject altogehter.
 
-### The Key
-The key is **KISS** (Keep It Simple Stupid).  
-Remember, if you feel an urge to *avoid*, you're probably going to pay more avoiding than by *confronting* that.
+## How Is This Helpful?
+To end procrastination, underlying anxiety must be treated. The thing to remember though is that if we focus entirely on developing strategies of time management and todo-like systems, we may see a temporary improvement that is far too likely to decrease over time and cause frustration.
+
+On the other half of the coin is motivation. If you find yourself lacking motivation, it could be due to various reasons. One reason I outline repeatedly in this blog is overlooking the responsibilities and sacrifices related to behaviors and change in general. Not willing to pay short-term prices in favor of long-term benefits is not uncommon.
+
+### The Takeaway
+In this post, I laid out two major causes of procrastination: Anxiety and Lack of motivation.
+
+Remember, if you notice a reoccuring pattern of compulsive avoidance, i.e procrastination, you should me mindful of that and pay proper attention to it.
 
 <br />
 <br />

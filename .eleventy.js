@@ -8,6 +8,10 @@ const markdownItAnchor = require('markdown-it-anchor')
 const timeToRead = require('./lib/js/reading-time');
 const now = String(Date.now());
 
+// const publishedPosts = post => post && post.date <= now && !post.date.draft
+
+const publishedPosts = post => post.date <= now && !post.data.draft
+
 module.exports = function(eleventyConfig) {
 
   /*
@@ -78,7 +82,11 @@ module.exports = function(eleventyConfig) {
       post.data.outputPath += '/index.html';
       return post
     })
-    return newPosts
+
+
+    return process.env.NODE_ENV === 'production'
+      ? newPosts.filter(publishedPostsb)
+      : newPosts
   })
 
   eleventyConfig.addShortcode('version', function () {
